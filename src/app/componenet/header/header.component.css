@@ -1,0 +1,9 @@
+.container-fluid{
+    background-color: coral;
+    height: 35%;
+    display: flex;
+    flex-direction: row;
+}
+.product{
+    padding: 2%;
+}
